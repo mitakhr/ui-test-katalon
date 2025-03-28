@@ -6,11 +6,12 @@
    <UUID>a22cb1cc-76c4-4912-8c02-756ccd0a2180</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.1.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\WINDOWS\Katalon Studio\ui-test-facebook\ui-test-facebook.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
