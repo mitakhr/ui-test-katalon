@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.facebook.com/login/')
+
+WebUI.setText(findTestObject('Object Repository/Page_Log in to Facebook/input_Log in to Facebook_email'), 'zcamdalls@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log in to Facebook/input_Log in to Facebook_pass'), 'zGj7y75Erc/gIHrL1x4ICQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Log in to Facebook/button_Log in'))
+
