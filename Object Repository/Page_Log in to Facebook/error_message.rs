@@ -32,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8cc074ae-efe8-4fbd-95fc-199d1b2788cc</webElementGuid>
+      <webElementGuid>8b494d29-62da-433c-b86b-4391cb5bcb03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_9ay7</value>
-      <webElementGuid>55aba0e2-9771-46ba-849f-525f47c39a41</webElementGuid>
+      <webElementGuid>e563235d-cc98-42a4-95e9-3e1cd2166032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The email address you entered isn't connected to an account. Find your account and log in.</value>
-      <webElementGuid>342293ad-602d-4d09-9db6-b12375c22915</webElementGuid>
+      <webElementGuid>12b60650-d22f-48ff-ae0c-567272034012</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
-      <webElementGuid>1d8ff6fb-6b4d-441b-b355-13bd363c8897</webElementGuid>
+      <webElementGuid>c2c906ba-26e6-40e9-8ec6-eadde57924af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='email_container']/div[2]</value>
-      <webElementGuid>f796f039-a643-4ea5-b57c-d3b73381d867</webElementGuid>
+      <webElementGuid>63cf1624-9c17-4026-98dc-0c4b6aab13c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to Facebook'])[2]/following::div[5]</value>
-      <webElementGuid>07fc46b7-1f09-44af-94ea-66f41f9d89ad</webElementGuid>
+      <webElementGuid>3fa54a44-d4ff-48ca-8e8a-2cab5a0539bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[7]</value>
-      <webElementGuid>503efb05-494a-493f-afd6-69b774e71cbc</webElementGuid>
+      <webElementGuid>80900ad9-fdc4-4b04-a7fe-a98b82960e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div[2]</value>
-      <webElementGuid>508d3959-f837-4697-ad9a-d5c98c0b6cc2</webElementGuid>
+      <webElementGuid>47b2f497-a79e-4ed6-a4f5-4a843a0960d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = concat(&quot;The email address you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Find your account and log in.&quot;) or . = concat(&quot;The email address you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Find your account and log in.&quot;))]</value>
-      <webElementGuid>c01055ed-53ce-462b-9366-7e4c491c71f6</webElementGuid>
+      <webElementGuid>96e48f98-9f31-4d86-8af1-eded1a540546</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
