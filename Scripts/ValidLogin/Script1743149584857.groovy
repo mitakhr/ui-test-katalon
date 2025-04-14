@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log in to Facebook
 WebUI.click(findTestObject('Object Repository/Page_Log in to Facebook/button_Log in'))
 
 'to input captcha manually'
-WebUI.delay(15)
+WebUI.delay(40)
 
 WebUI.verifyTextPresent('Yoo Sunshine', false)
 

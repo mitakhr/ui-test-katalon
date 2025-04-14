@@ -34,8 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log in to Facebook
 
 WebUI.click(findTestObject('Object Repository/Page_Log in to Facebook/button_Log in'))
 
-'to input captcha manually'
-WebUI.delay(15)
-
+//'to input captcha manually'
+WebUI.delay(40)
 WebUI.verifyTextPresent('The password that you\'ve entered is incorrect.', false)
 
